@@ -1,0 +1,15 @@
+C:\Users\moraaleg\source\repos\CodeFirst2\CodeFirst2\bin\Debug\CodeFirst2.exe.config
+C:\Users\moraaleg\source\repos\CodeFirst2\CodeFirst2\bin\Debug\CodeFirst2.exe
+C:\Users\moraaleg\source\repos\CodeFirst2\CodeFirst2\bin\Debug\CodeFirst2.pdb
+C:\Users\moraaleg\source\repos\CodeFirst2\CodeFirst2\bin\Debug\EntityFramework.dll
+C:\Users\moraaleg\source\repos\CodeFirst2\CodeFirst2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\moraaleg\source\repos\CodeFirst2\CodeFirst2\bin\Debug\EntityFramework.xml
+C:\Users\moraaleg\source\repos\CodeFirst2\CodeFirst2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\moraaleg\source\repos\CodeFirst2\CodeFirst2\obj\Debug\CodeFirst2.csprojAssemblyReference.cache
+C:\Users\moraaleg\source\repos\CodeFirst2\CodeFirst2\obj\Debug\CodeFirst2.Properties.Resources.resources
+C:\Users\moraaleg\source\repos\CodeFirst2\CodeFirst2\obj\Debug\CodeFirst2.csproj.GenerateResource.cache
+C:\Users\moraaleg\source\repos\CodeFirst2\CodeFirst2\obj\Debug\CodeFirst2.csproj.CoreCompileInputs.cache
+C:\Users\moraaleg\source\repos\CodeFirst2\CodeFirst2\obj\Debug\CodeFirst2.csproj.CopyComplete
+C:\Users\moraaleg\source\repos\CodeFirst2\CodeFirst2\obj\Debug\CodeFirst2.exe
+C:\Users\moraaleg\source\repos\CodeFirst2\CodeFirst2\obj\Debug\CodeFirst2.pdb
+C:\Users\moraaleg\source\repos\CodeFirst2\CodeFirst2\obj\Debug\CodeFirst2.Form1.resources
